@@ -1,3 +1,5 @@
+Let's begin!
+
 2 (8 ounce) packages refrigerated crescent rolls
 
 1 cup sour cream
@@ -21,3 +23,5 @@
 1 carrot, grated
 
 1 stalk celery, thinly sliced
+
+Enjoy my recipe!
