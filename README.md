@@ -8,3 +8,6 @@ last line changed locally
 
 line 4 changed remotely
 
+# Heading level 1
+
+### Heading level 3
