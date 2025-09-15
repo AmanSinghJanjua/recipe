@@ -21,3 +21,5 @@ List of items
 4. Fourth item
 
 To format text in Markdown, use single asterisks or underscores for italics (e.g., *italic*) and double asterisks or underscores for bold (e.g., **bold**). *This text is italic*
+
+Picture name is recipe.jpg
